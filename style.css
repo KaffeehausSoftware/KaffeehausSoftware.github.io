@@ -5,6 +5,7 @@ body {
 h1 {
 	color: white;
 	font-family: tahoma, verdana, arial;
+	font-size: 10vw;
 }
 
 #container {
@@ -15,6 +16,6 @@ h1 {
 #container p {
 	color: white;
   	font-family: tahoma, verdana, arial;
-  	font-size: 18px;
+  	font-size: 3vw;
   	margin-left: 1em;
 }
