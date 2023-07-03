@@ -1,0 +1,20 @@
+body {
+	background-color: black;
+}
+
+h1 {
+	color: white;
+	font-family: tahoma, verdana, arial;
+}
+
+#container {
+	display: flex;
+	align-items: center;
+}
+
+#container p {
+	color: white;
+  	font-family: tahoma, verdana, arial;
+  	font-size: 18px;
+  	margin-left: 1em;
+}
