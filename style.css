@@ -2,6 +2,11 @@ body {
 	background-color: black;
 }
 
+header {
+	align-items: center;
+	display: flex;
+}
+
 h1 {
 	color: white;
 	font-family: tahoma, verdana, arial;
