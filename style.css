@@ -36,7 +36,7 @@ a {
 	align-items: center;
 }
 
-dl {
+#proj_list dl {
 	color: white;
 	font-family: tahoma, verdana, arial;
 	background-color: black;
@@ -44,21 +44,28 @@ dl {
 	font-size: 4vm;
 }
 
-dt {
+#proj_list dt {
 	color: white;
 	font-family: tahoma, verdana, arial;
 	background-color: black;
 	font-size: 4vm;
 }
 
-a:link {
+#proj_list dd {
 	color: white;
 	font-family: tahoma, verdana, arial;
-	font-size: 4vm;
+	background-color: black;
+	font-size: 3vm;
 }
 
-a:visited {
+#proj_list a:link {
 	color: white;
 	font-family: tahoma, verdana, arial;
-	font-size: 4vm;
+	font-size: 3vm;
+}
+
+#proj_list a:visited {
+	color: white;
+	font-family: tahoma, verdana, arial;
+	font-size: 3vm;
 }
