@@ -25,10 +25,10 @@ h1 {
   	margin-left: 1em;
 }
 
-#container a {
+a {
 	color: white;
 	font-family: tahoma, verdana, arial;
-	font-size: 4.6vm;
+	font-size: 4vm;
 }
 
 dl {
@@ -36,22 +36,24 @@ dl {
 	font-family: tahoma, verdana, arial;
 	background-color: black;
 	font-weight: bold;
+	font-size: 4vm;
 }
 
 dt {
 	color: white;
 	font-family: tahoma, verdana, arial;
 	background-color: black;
+	font-size: 4vm;
 }
 
 a:link {
 	color: white;
 	font-family: tahoma, verdana, arial;
-	font-size: 3.5vm;
+	font-size: 4vm;
 }
 
 a:visited {
 	color: white;
 	font-family: tahoma, verdana, arial;
-	font-size: 3.5vm;
+	font-size: 4vm;
 }
