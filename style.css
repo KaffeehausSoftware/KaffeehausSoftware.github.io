@@ -31,26 +31,26 @@ h1 {
 	font-size: 4.6vm;
 }
 
-#container dl {
+dl {
 	color: white;
 	font-family: tahoma, verdana, arial;
 	background-color: black;
 	font-weight: bold;
 }
 
-#container dt {
+dt {
 	color: white;
 	font-family: tahoma, verdana, arial;
 	background-color: black;
 }
 
-#container a:link {
+a:link {
 	color: white;
 	font-family: tahoma, verdana, arial;
 	font-size: 3.5vm;
 }
 
-#container a:visited {
+a:visited {
 	color: white;
 	font-family: tahoma, verdana, arial;
 	font-size: 3.5vm;
