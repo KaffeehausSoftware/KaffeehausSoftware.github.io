@@ -24,3 +24,34 @@ h1 {
   	font-size: 4vw;
   	margin-left: 1em;
 }
+
+#container a {
+	color: white;
+	font-family: tahoma, verdana, arial;
+	font-size: 4.6vm;
+}
+
+#container dl {
+	color: white;
+	font-family: tahoma, verdana, arial;
+	background-color: black;
+	font-weight: bold;
+}
+
+#container dt {
+	color: white;
+	font-family: tahoma, verdana, arial;
+	background-color: black;
+}
+
+#container a:link {
+	color: white;
+	font-family: tahoma, verdana, arial;
+	font-size: 3.5vm;
+}
+
+#container a:visited {
+	color: white;
+	font-family: tahoma, verdana, arial;
+	font-size: 3.5vm;
+}
