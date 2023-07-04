@@ -28,7 +28,7 @@ h1 {
 a {
 	color: white;
 	font-family: tahoma, verdana, arial;
-	font-size: 4vm;
+	font-size: 4vw;
 }
 
 #proj_list {
@@ -41,31 +41,31 @@ a {
 	font-family: tahoma, verdana, arial;
 	background-color: black;
 	font-weight: bold;
-	font-size: 4vm;
+	font-size: 4vw;
 }
 
 #proj_list dt {
 	color: white;
 	font-family: tahoma, verdana, arial;
 	background-color: black;
-	font-size: 4vm;
+	font-size: 4vw;
 }
 
 #proj_list dd {
 	color: white;
 	font-family: tahoma, verdana, arial;
 	background-color: black;
-	font-size: 3vm;
+	font-size: 3vw;
 }
 
 #proj_list a:link {
 	color: white;
 	font-family: tahoma, verdana, arial;
-	font-size: 3vm;
+	font-size: 3vw;
 }
 
 #proj_list a:visited {
 	color: white;
 	font-family: tahoma, verdana, arial;
-	font-size: 3vm;
+	font-size: 3vw;
 }
